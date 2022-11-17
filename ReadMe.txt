@@ -1,0 +1,1 @@
+CoolTerm software is used to capture data and convert it to a csv file as Arduino 2.0.2 serial monitor does not allow you to copy the whole data. Please find the filtering code as well
